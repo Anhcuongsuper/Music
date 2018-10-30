@@ -1,0 +1,20 @@
+
+.body {
+
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #bbccbb;
+}
+.body img {
+    width: 100px;
+    height: 100px;
+
+}
+.body audio {
+
+}
+
+@media screen and (max width: 580px){
+
+}
